@@ -72,6 +72,7 @@ public class Cinema {
                  "%",
                 currentIncome, totalIncome);
     }
+
     static void bookTickets(String[][] cinemaRoom) {
         System.out.println("\nEnter a row number:");
         currentRows = scanner.nextInt();
