@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-classes-java.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-reports-tests.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-test-results.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-tmp.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Branching_statements-A_suitable_output.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Branching_statements-Bus_tour.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Branching_statements-The_sequence.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Branching_statements-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Calling_a_method-Abs_method.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Calling_a_method-Call_me_awesome.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Calling_a_method-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Comments-The_forgotten_comments.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Comments-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Introduction_to_Java-Hello.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Introduction_to_Java-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Introduction_to_Java-WORA.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_main_method-Print__We_are_robots.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_main_method-Select_all_correct_statements.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_main_method-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Types_and_variables-Fill_the_declaration.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Types_and_variables-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
